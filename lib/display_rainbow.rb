@@ -1,6 +1,6 @@
 # Write your #display_rainbow method here
 def display_rainbow(colors)
-  colors.forEach |color| do
+  colors.foreach |color| do
     puts "color"
   end
 end
